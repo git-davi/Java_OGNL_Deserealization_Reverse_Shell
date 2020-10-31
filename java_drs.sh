@@ -22,7 +22,7 @@ then
     .                  .     OP"          : o     .
                               :
     '
-    echo '==================== JAVA/OGNL DESEREALIZATION REVERSE SHELL ===================='
+    echo '==================== JAVA/OGNL DESERIALIZATION REVERSE SHELL ===================='
     echo 'Usage : java_drs.sh <ysoserial payload> <lhost> <lport> [url_enc_stream]'
     exit 1
 fi

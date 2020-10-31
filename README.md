@@ -1,10 +1,10 @@
-# Java/OGNL Deserealization Reverse Shell Payload Generator
+# Java/OGNL Deserialization Reverse Shell Payload Generator
 *This mini tool is for educational and research purpose only.*  
 *I am not responsible for any improper use.*
 
 The goal is to provide a different way to launch a reverse shell leveraging
-unsecure payload deserealization.  
-You need to identify the payload for the deserealization library from the 
+unsecure payload deserialization.  
+You need to identify the payload for the deserialization library from the 
 [ysoserial page](https://github.com/frohoff/ysoserial#usage).  
   
 Once done that you can launch simply the script :
