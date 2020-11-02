@@ -19,6 +19,7 @@ hopefully will give you a reverse shell.
 **The output is supporting also OGNL format and can be urlencoded as a byte stream.**  
 #### Note 2
 You still need to insert the code generated into the PoC exploit code.  
+For example you could need to add 'allowSstaticMethosAccess' or 'GET_MEMBER_ACCESS etc..  
 This script was done to speedup the process of payload generation which can be 
 complex and error likely.
 #### Note 3
